@@ -1001,4 +1001,4 @@ include $(BUILD_EXECUTABLE)
 
 endif # ifeq ($(WPA_BUILD_HOSTAPD),true)
 
-endif $ ifeq ($(BOARD_WIFI_VENDOR),realtek)
+endif # ifeq ($(BOARD_WIFI_VENDOR),realtek)
